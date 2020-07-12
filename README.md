@@ -10,5 +10,4 @@ I occasionally find time to write about my work and things that are worth sharin
 
 I have some OSS libraries created in Javascript space(React, Angular, Node). 
 
-While working with the humongous set of node_modules, I often find myself reading the code than the documentation. Thanks, VSCode for that(You know you can quickly [search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules). 
-
+While working with the humongous set of node_modules, I often find myself reading the code than the documentation.💓 VSCode for all the awesomeness and letting me explore [node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) easily.
