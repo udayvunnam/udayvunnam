@@ -1,9 +1,3 @@
-<p align="center">
-<a href="https://www.linkedin.com/in/udayvunnam">
-  <img src="./assets/uday.jpg" alt="Hey 👋, you're with Uday" />
-  </a>
-<p>
-
 - I enjoy frontend, but work across all levels of the stack.
 - I occasionally find time to write about my work and things that are worth sharing. Experienced in various domains like IIOT, Finance, Logistics, and eCommerce
 
