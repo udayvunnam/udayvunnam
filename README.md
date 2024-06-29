@@ -1,9 +1,10 @@
-- I enjoy frontend, but work across all levels of the stack.
-- I occasionally find time to write about my work and things that are worth sharing. Experienced in various domains like IIOT, Finance, Logistics, and eCommerce
+- I am passionate about all things related to JavaScript and Golang.
+- My experience spans various domains, including IIOT, finance, logistics, eCommerce, and SaaS
+- Occasionally, I find time to write about my work and share insights on topics worth discussing.
 
 <a href="http://twitter.com/udayvunnam_">
   <img src="https://img.shields.io/twitter/follow/udayvunnam_?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
+</a>
 
 ## <h3 align="left">GitHub Stats</h3>
 
